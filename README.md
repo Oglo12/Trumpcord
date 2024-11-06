@@ -8,9 +8,9 @@ Make America great again!
 
 <a href="https://star-history.com/#Oglo12/Trumpcord&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Vendicated/Vencord&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Vendicated/Vencord&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Vendicated/Vencord&type=Timeline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Oglo12/Trumpcord&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Oglo12/Trumpcord&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Oglo12/Trumpcord&type=Timeline" />
   </picture>
 </a>
 
